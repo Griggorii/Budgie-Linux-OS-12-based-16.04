@@ -1,7 +1,7 @@
 # Budgie-Linux-OS-11-based-16.04
 Linux 16.04 memory
 
-Скачать iso Mirror 1) https://dropmefiles.com.ua/amRXzSCLE Mirror 2) https://dropmefiles.com/jt38m
+Скачать iso https://dropmefiles.com.ua/HAB8ZDh
 
 В случае если будет не заходить в сессию 
 
