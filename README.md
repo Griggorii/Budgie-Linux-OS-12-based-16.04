@@ -1,7 +1,7 @@
 # Budgie-Linux-OS-11-based-16.04
 Linux 16.04 memory
 
-Скачать iso https://dropmefiles.com.ua/HAB8ZDh
+Скачать iso https://dropmefiles.com.ua/HAB8ZDh https://github.com/Griggorii/Budgie-Linux-OS-11-based-16.04/blob/master/Budgie_memory_X64.png
 
 В случае если будет не заходить в сессию 
 
