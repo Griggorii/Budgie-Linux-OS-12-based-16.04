@@ -5,6 +5,8 @@ Linux 16.04 memory
 
 В случае если будет не заходить в сессию 
 
+&& sudo apt-get purge geoclue-2.0 
+
 &&su 
 
 &&mount -o remount,rw /dev/sda1-2-3-4-5 какой у вас будет выйти из su и
