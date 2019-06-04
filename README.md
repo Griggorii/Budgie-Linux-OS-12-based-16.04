@@ -17,7 +17,7 @@ Linux 16.04 memory
 
 PPA Kodi TV https://www.omgubuntu.co.uk/2019/01/install-kodi-on-ubuntu-linux
 
-Правильное обновление системы &&sudo apt update && sudo apt upgrade && sudo apt install -f
+Правильное обновление системы &&sudo apt update && sudo apt upgrade && sudo apt install -f && sudo apt purge linux-headers-4.4.0-150 linux-headers-4.4.0-150-generic linux-modules-4.4.0-150-generic linux-headers-generic 
 
 В этой версии рабочии ninja-ide , но после обновлений он ломается , но можно обновить firefox от него ничего не поломается , а цветовая гамма расширится так что кто на нём что то разрабатывает забудьте об обновлениях программ для программирования ,
 работает boxes и много что работает что уже в новых версиях падает в сигволт. Ест памяти на 100-200 мегабайт чем 19.04 при 
