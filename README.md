@@ -46,4 +46,4 @@ mksquashfs data.img system.sfs
 
 Новая версия OS11 на базе 19.04 тут https://github.com/Griggorii/Cinnamon-Budgie-Linux-OS-11-based-19.04-Ubuntu-Pop
 
-Между ними есть разница Wine сильный в 19.04 , а в 16.04 сильный Playonlinux выбирать вам.
+Между ними есть разница Wine сильный в 19.04 , а в 16.04 сильный Playonlinux и Wine выбирать вам.
