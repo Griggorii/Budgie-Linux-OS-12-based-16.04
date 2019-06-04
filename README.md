@@ -3,9 +3,11 @@ Linux 16.04 memory
 
 Скачать iso https://dropmefiles.com.ua/HAB8ZDh https://github.com/Griggorii/Budgie-Linux-OS-11-based-16.04/blob/master/Budgie_memory_X64.png
 
-В случае если будет не заходить в сессию 
+После установки надо проделать операцию && sudo apt-get purge geoclue-2.0  потому что этот пакет будет мешать устанавливать другие пакеты , и удалить папку в var с названием geoclue
 
-&& sudo apt-get purge geoclue-2.0 
+В дистрибутиве модифицированные firefox и chrome будет сразо заметно по четким шрифтам так как я пересадил из 19.04 firefox при помощи aptik все его составляющие компоненты.
+
+В случае если будет не заходить в сессию 
 
 &&su 
 
