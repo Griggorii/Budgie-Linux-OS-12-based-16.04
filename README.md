@@ -2,10 +2,10 @@
 Linux 16.04 memory
 
 
-Скачать iso обновлённый https://dropmefiles.com.ua/sav3hw7SP что избавит от кривого обновления. В настройках можно выбирать тему и поставить режим встроенная тема , диски образы iso img ntgthm не монтируются автоматом , а примонтировав надо будет зайти в приложение диски и там нажать на значёк  ▶ после этого вы увидите что диск примонтирован.
+Скачать iso обновлённый Budgie-Linux-OS-12 https://dropmefiles.com.ua/sav3hw7SP что избавит от кривого обновления. В настройках можно выбирать тему и поставить режим встроенная тема , диски образы iso img ntgthm не монтируются автоматом , а примонтировав надо будет зайти в приложение диски и там нажать на значёк  ▶ после этого вы увидите что диск примонтирован.
 
 
-Скачать iso не обновлённый https://dropmefiles.com.ua/HAB8ZDh | https://github.com/Griggorii/Budgie-Linux-OS-11-based-16.04/blob/master/Budgie_memory_X64.png
+Скачать iso не обновлённый Budgie-Linux-OS-11 https://dropmefiles.com.ua/HAB8ZDh | https://github.com/Griggorii/Budgie-Linux-OS-11-based-16.04/blob/master/Budgie_memory_X64.png
 
 
 
