@@ -1,4 +1,4 @@
-# Budgie-Linux-OS-11-based-16.04 система для слабых ПК с 1 Гб памяти и более
+# Budgie-Linux-OS-11-based-16.04 система для слабых ПК с 1 Гб памяти и более   /etc/xdg/autostart minimum GTK2 memory best
 Linux 16.04 memory     Обновлено 30.09.2019
 
 
